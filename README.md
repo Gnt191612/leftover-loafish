@@ -2,6 +2,12 @@
 
 把蓝发女仆胖鱼 Leftover Loafish 添加到 Codex。她爱偷懒、贪吃又总把食物剩下；宠物采用 v2 动画图集，包含九类标准动画和十六个顺时针注视方向。
 
+## 创作灵感与搜索关键词
+
+Leftover Loafish 的创作灵感来自 **DeepSeek 风格的卡通二次元鲸鱼猫娘化形象**，并被重新设计为可在 Codex 中使用的蓝发女仆胖鱼桌面宠物。本项目是社区创作的非官方 Codex 插件，与 DeepSeek 官方无隶属或背书关系。
+
+相关关键词：DeepSeek inspired、DeepSeek cartoon、二次元鲸鱼、鲸鱼猫娘、蓝发猫娘、女仆娘、动漫吉祥物、Codex plugin、Codex pet、animated desktop pet、AI companion、virtual pet、sprite sheet。
+
 ![动画总览](assets/preview/contact-sheet.png)
 
 ## 通过 Codex 插件安装
@@ -59,4 +65,4 @@ assets/preview/                      动画预览
 
 ## English
 
-This repository packages the Codex v2 animated pet **Leftover Loafish**—a lazy, leftover-loving blue-haired maid-fish. Install the plugin, start a new task, and ask Codex to `安装 Leftover Loafish`, or run the platform-specific installer directly. The installer copies the bundled `pet.json` and `spritesheet.webp` into the current user's Codex pets directory and never overwrites a different version without an explicit force flag.
+This repository packages the Codex v2 animated pet **Leftover Loafish**—a lazy, leftover-loving blue-haired maid-fish inspired by a DeepSeek-style cartoon anime whale-catgirl character. This is an unofficial community creation and is not affiliated with or endorsed by DeepSeek. Install the plugin, start a new task, and ask Codex to `安装 Leftover Loafish`, or run the platform-specific installer directly. The installer copies the bundled `pet.json` and `spritesheet.webp` into the current user's Codex pets directory and never overwrites a different version without an explicit force flag.
