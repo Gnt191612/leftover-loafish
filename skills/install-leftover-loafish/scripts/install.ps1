@@ -4,7 +4,7 @@ $ErrorActionPreference = 'Stop'
 $pluginRoot = (Resolve-Path (Join-Path $PSScriptRoot '..\..\..')).Path
 $sourceDir = Join-Path $pluginRoot 'assets\pet'
 $codexRoot = if ($env:CODEX_HOME) { $env:CODEX_HOME } else { Join-Path $HOME '.codex' }
-$targetDir = Join-Path $codexRoot 'pets\rice-eating-fat-fish'
+$targetDir = Join-Path $codexRoot 'pets\leftover-loafish'
 $sourceJson = Join-Path $sourceDir 'pet.json'
 $sourceSheet = Join-Path $sourceDir 'spritesheet.webp'
 $targetJson = Join-Path $targetDir 'pet.json'
@@ -34,7 +34,7 @@ Copy-Item -LiteralPath $sourceJson -Destination $targetJson -Force
 Copy-Item -LiteralPath $sourceSheet -Destination $targetSheet -Force
 
 $manifest = Get-Content -Raw -Encoding UTF8 -LiteralPath $targetJson | ConvertFrom-Json
-if ($manifest.spriteVersionNumber -ne 2 -or $manifest.displayName -ne '吃白饭的大肥鱼') {
+if ($manifest.spriteVersionNumber -ne 2 -or $manifest.displayName -ne 'Leftover Loafish') {
     throw '安装后的 pet.json 校验失败。'
 }
 

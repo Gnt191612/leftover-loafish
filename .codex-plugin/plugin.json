@@ -1,24 +1,24 @@
 {
-  "name": "rice-eating-fat-fish",
+  "name": "leftover-loafish",
   "version": "1.0.0",
-  "description": "安装 v2 Codex 宠物“吃白饭的大肥鱼”。",
+  "description": "安装 v2 Codex 宠物 Leftover Loafish。",
   "author": {"name": "郭宁桐"},
-  "homepage": "https://github.com/Gnt191612/chibaifandedafeiyu",
-  "repository": "https://github.com/Gnt191612/chibaifandedafeiyu",
+  "homepage": "https://github.com/Gnt191612/leftover-loafish",
+  "repository": "https://github.com/Gnt191612/leftover-loafish",
   "license": "MIT",
   "skills": "./skills/",
   "interface": {
-    "displayName": "吃白饭的大肥鱼",
+    "displayName": "Leftover Loafish",
     "shortDescription": "安装同款蓝发女仆小鱼 Codex 宠物",
-    "longDescription": "将已验证的 v2 动态宠物“吃白饭的大肥鱼”安装到本机 Codex 宠物目录。",
+    "longDescription": "安装已验证的 v2 动态宠物 Leftover Loafish：一条爱偷懒、贪吃又总剩饭的蓝发女仆胖鱼。",
     "developerName": "郭宁桐",
     "category": "Lifestyle",
     "capabilities": ["Write"],
     "brandColor": "#3359A8",
-    "websiteURL": "https://github.com/Gnt191612/chibaifandedafeiyu",
+    "websiteURL": "https://github.com/Gnt191612/leftover-loafish",
     "composerIcon": "./assets/logo.png",
     "logo": "./assets/logo.png",
     "screenshots": ["./assets/preview/contact-sheet.png"],
-    "defaultPrompt": ["安装吃白饭的大肥鱼"]
+    "defaultPrompt": ["安装 Leftover Loafish"]
   }
 }

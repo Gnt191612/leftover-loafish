@@ -7,7 +7,7 @@ script_dir=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
 plugin_root=$(CDPATH= cd -- "$script_dir/../../.." && pwd)
 source_dir="$plugin_root/assets/pet"
 codex_root="${CODEX_HOME:-$HOME/.codex}"
-target_dir="$codex_root/pets/rice-eating-fat-fish"
+target_dir="$codex_root/pets/leftover-loafish"
 
 [ -f "$source_dir/pet.json" ] && [ -f "$source_dir/spritesheet.webp" ] || {
   echo '插件内缺少宠物资源。' >&2

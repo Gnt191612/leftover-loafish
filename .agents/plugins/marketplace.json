@@ -1,11 +1,11 @@
 {
-  "name": "rice-eating-fat-fish-community",
+  "name": "leftover-loafish-community",
   "interface": {
-    "displayName": "吃白饭的大肥鱼"
+    "displayName": "Leftover Loafish"
   },
   "plugins": [
     {
-      "name": "rice-eating-fat-fish",
+      "name": "leftover-loafish",
       "source": {
         "source": "local",
         "path": "./"
