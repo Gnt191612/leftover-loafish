@@ -7,7 +7,7 @@
 ## 通过 Codex 插件安装
 
 ```powershell
-codex plugin marketplace add Gnt191612/rice-eating-fat-fish-codex-plugin
+codex plugin marketplace add Gnt191612/chibaifandedafeiyu
 ```
 
 然后在 Codex 中打开 `/plugins`，从“吃白饭的大肥鱼”来源安装插件，开启一个新任务并输入：
@@ -23,16 +23,16 @@ codex plugin marketplace add Gnt191612/rice-eating-fat-fish-codex-plugin
 Windows PowerShell：
 
 ```powershell
-git clone https://github.com/Gnt191612/rice-eating-fat-fish-codex-plugin.git
-cd rice-eating-fat-fish-codex-plugin
+git clone https://github.com/Gnt191612/chibaifandedafeiyu.git
+cd chibaifandedafeiyu
 powershell -ExecutionPolicy Bypass -File .\skills\install-fat-fish\scripts\install.ps1
 ```
 
 macOS / Linux：
 
 ```bash
-git clone https://github.com/Gnt191612/rice-eating-fat-fish-codex-plugin.git
-cd rice-eating-fat-fish-codex-plugin
+git clone https://github.com/Gnt191612/chibaifandedafeiyu.git
+cd chibaifandedafeiyu
 sh ./skills/install-fat-fish/scripts/install.sh
 ```
 

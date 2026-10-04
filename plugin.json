@@ -7,8 +7,8 @@
   "author": {
     "name": "郭宁桐"
   },
-  "homepage": "https://github.com/Gnt191612/rice-eating-fat-fish-codex-plugin",
-  "repository": "https://github.com/Gnt191612/rice-eating-fat-fish-codex-plugin",
+  "homepage": "https://github.com/Gnt191612/chibaifandedafeiyu",
+  "repository": "https://github.com/Gnt191612/chibaifandedafeiyu",
   "extensions": {
     "com.openai": {
       "interface": {
@@ -19,7 +19,7 @@
         "category": "Lifestyle",
         "capabilities": ["Write"],
         "brandColor": "#3359A8",
-        "websiteURL": "https://github.com/Gnt191612/rice-eating-fat-fish-codex-plugin",
+        "websiteURL": "https://github.com/Gnt191612/chibaifandedafeiyu",
         "composerIcon": "./assets/logo.png",
         "logo": "./assets/logo.png",
         "screenshots": ["./assets/preview/contact-sheet.png"],
