@@ -1,0 +1,30 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "rice-eating-fat-fish",
+  "version": "1.0.0",
+  "description": "Install the v2 Codex pet 吃白饭的大肥鱼, a round blue-haired maid fish companion.",
+  "license": "MIT",
+  "author": {
+    "name": "郭宁桐"
+  },
+  "homepage": "https://github.com/Gnt191612/rice-eating-fat-fish-codex-plugin",
+  "repository": "https://github.com/Gnt191612/rice-eating-fat-fish-codex-plugin",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "吃白饭的大肥鱼",
+        "shortDescription": "安装同款蓝发女仆小鱼 Codex 宠物",
+        "longDescription": "将已验证的 v2 动态宠物“吃白饭的大肥鱼”安装到本机 Codex 宠物目录，包含九类标准动画和十六个注视方向。",
+        "developerName": "郭宁桐",
+        "category": "Lifestyle",
+        "capabilities": ["Write"],
+        "brandColor": "#3359A8",
+        "websiteURL": "https://github.com/Gnt191612/rice-eating-fat-fish-codex-plugin",
+        "composerIcon": "./assets/logo.png",
+        "logo": "./assets/logo.png",
+        "screenshots": ["./assets/preview/contact-sheet.png"],
+        "defaultPrompt": ["安装吃白饭的大肥鱼"]
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "rice-eating-fat-fish-community",
+  "interface": {
+    "displayName": "吃白饭的大肥鱼"
+  },
+  "plugins": [
+    {
+      "name": "rice-eating-fat-fish",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Lifestyle"
+    }
+  ]
+}
