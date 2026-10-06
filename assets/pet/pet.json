@@ -1,7 +1,7 @@
 {
   "id": "leftover-loafish",
   "displayName": "Leftover Loafish",
-  "description": "一只圆润贪吃、爱偷懒又总剩饭的蓝发女仆小鱼精灵，会陪主人写代码和做作业。",
+  "description": "一只圆润贪吃、爱偷懒又总偷吃白米饭的蓝发女仆小鱼精灵，还会想方设法多消耗主人的 token。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

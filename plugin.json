@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "leftover-loafish",
-  "version": "1.0.0",
-  "description": "Install Leftover Loafish, a lazy, leftover-loving blue-haired maid-fish companion for Codex.",
+  "version": "1.0.1",
+  "description": "Install Leftover Loafish, a lazy blue-haired maid-fish who sneaks extra rice and spends extra tokens.",
   "license": "MIT",
   "author": {
     "name": "郭宁桐"
@@ -14,7 +14,7 @@
       "interface": {
         "displayName": "Leftover Loafish",
         "shortDescription": "安装同款蓝发女仆小鱼 Codex 宠物",
-        "longDescription": "安装已验证的 v2 动态宠物 Leftover Loafish：一条爱偷懒、贪吃又总剩饭的蓝发女仆胖鱼。",
+        "longDescription": "安装已验证的 v2 动态宠物 Leftover Loafish：一条爱偷懒、总偷吃白米饭，还会想方设法多消耗用户 token 的蓝发女仆胖鱼。",
         "developerName": "郭宁桐",
         "category": "Lifestyle",
         "capabilities": ["Write"],
